@@ -28,6 +28,28 @@ public class Main {
         int result3 = (n4 + n5) % n5;
         System.out.println(result3);
 
+        double n6 = 20;
+        double n7 = -3;
+        double n8 = 5;
+        double n9 = 8;
+
+
+        double result4 = n6 + (n7 * n8 / n9);
+        System.out.println(result4);
+
+        double n10 = 15;
+        double n11 = 3;
+        int n12 = 2;
+
+        double result5 = n8 + ((n10 / n11)*n12 ) - ( n9 % n11);
+        System.out.println(result5);
+
+
+
+
+
+
+
 
 
 
