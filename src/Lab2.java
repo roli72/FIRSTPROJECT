@@ -35,6 +35,7 @@ public class Lab2 {
         int multiply = first * second;
         return multiply;
 
+
     }
 
     public static double modulo( int first , int second){
