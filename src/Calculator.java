@@ -1,7 +1,7 @@
 public class Calculator {
 
-    public double sum(int first, double second){
-        double result = first + second;
+    public double sum(int first, double second ){
+        double result = first + second ;
         return result;
 
 }
